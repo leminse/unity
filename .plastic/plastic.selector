@@ -1,0 +1,4 @@
+repository "Survivors_Like@s2330@cloud"
+  path "/"
+    br "/main"
+    co "/main"
